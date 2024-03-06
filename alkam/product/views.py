@@ -17,6 +17,25 @@ class ProductApi(viewsets.ReadOnlyModelViewSet):
     serializer_class = ProductSerializer
     pagination_class = ProductAPIListPagination
 
+    def get_queryset(self):
+        queryset = Product.objects.all()
+
+        alloy_slug = self.request.query_params.get("alloy")
+        if alloy_slug is not None:
+            alloy_type = AlloyType.objects.filter(slug=alloy_slug)
+            if alloy_type.count() == 0: return Product.objects.none()
+
+            queryset = queryset.filter(alloy_type=alloy_type[0])
+
+        category_slug = self.request.query_params.get("category")
+        if category_slug is not None:
+            category = ProductCategory.objects.filter(slug=category_slug)
+            if category.count() == 0: return Product.objects.none()
+
+            queryset = queryset.filter(product_category=category[0])
+
+        return queryset
+
     @action(detail=False)
     def categories(self, request):
         categories = ProductCategory.objects.all()

@@ -328,6 +328,26 @@
 }
 
 
+/api/products/?alloy=d16&category=list
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "product_category": "Лист",
+            "supply_condition": "Т1",
+            "alloy_type": "Д16",
+            "standard": "ГОСТ 21631-76",
+            "thickness": "0.5-5.0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        }
+    ]
+}
+
+
 /api/products/alloys
 [
     {
