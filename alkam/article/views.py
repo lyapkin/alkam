@@ -43,7 +43,7 @@ class ArticleApi(viewsets.ReadOnlyModelViewSet):
             return self.serializers_action_classes[self.action]
 
     def get_queryset(self):
-        queryset = Article.objects.all()
+        queryset = Article.objects.order_by("-id")
 
         category_slug = self.request.query_params.get("category")
         if category_slug is not None:
