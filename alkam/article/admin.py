@@ -15,6 +15,8 @@ class ArticleAdminForm(forms.ModelForm):
 class ArticleAdmin(admin.ModelAdmin):
     form = ArticleAdminForm
     prepopulated_fields = {"slug": ("title",)}
+    list_display = ["title", "date"]
+    filter_horizontal = ("categories",)
 
 
 class ArticleCategoryAdmin(admin.ModelAdmin):
