@@ -10,22 +10,19 @@ class ArticleCategorySerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 class ArticleSerializer(serializers.ModelSerializer):
-    categories = ArticleCategorySerializer(read_only=True, many=True)
 
     class Meta:
         model = Article
-        fields = "__all__"
+        exclude = ("categories", "slug", "image_url", "content_concise")
 
 
 class ArticleListSerializer(serializers.ModelSerializer):
-    categories = ArticleCategorySerializer(read_only=True, many=True)
-    content_preview = serializers.SerializerMethodField()
 
     class Meta:
         model = Article
         exclude = ("content",)
 
-    def get_content_preview(self, article):
-        return article.content[:100]
+
+
 
 

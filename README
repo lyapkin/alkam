@@ -1,200 +1,45 @@
 /api/articles/
 {
-    "links": {
-        "next": "http://127.0.0.1:8000/api/articles/?page=2",
-        "previous": null
-    },
-    "count": 9,
-    "result": [
+    "articles": [
         {
-            "id": 1,
+            "id": 10,
+            "title": "оборудование",
+            "slug": "oborudovanie",
+            "content_concise": "Descriptionываыва",
+            "image_url": "/media/images/image_105_cnrgKV9.jpg",
+            "date": "2024-03-07",
             "categories": [
-                {
-                    "id": 2,
-                    "name": "Оборудование",
-                    "slug": "oborudovanie"
-                },
-                {
-                    "id": 4,
-                    "name": "Новости АЛКАМ",
-                    "slug": "novosti-alkam"
-                }
-            ],
-            "content_preview": "<p>аывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаыв",
-            "title": "статья 1",
-            "slug": "statya-1",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_fjk2sjH.jpg",
-            "date": "2024-03-06"
-        },
-        {
-            "id": 2,
-            "categories": [
-                {
-                    "id": 5,
-                    "name": "Металлургия",
-                    "slug": "metallurgiya"
-                }
-            ],
-            "content_preview": "ывафыва",
-            "title": "статья 2",
-            "slug": "statya-2",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_IOSybds.jpg",
-            "date": "2024-03-06"
-        },
-        {
-            "id": 3,
-            "categories": [
-                {
-                    "id": 2,
-                    "name": "Оборудование",
-                    "slug": "oborudovanie"
-                }
-            ],
-            "content_preview": "авпвапдледжеуукеу",
-            "title": "статья 3",
-            "slug": "statya-3",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_o97VQMH.jpg",
-            "date": "2024-03-06"
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Алюминиевый прокат",
-            "slug": "alyuminievyj-prokat"
-        },
-        {
-            "id": 2,
-            "name": "Оборудование",
-            "slug": "oborudovanie"
-        },
-        {
-            "id": 3,
-            "name": "Продукция",
-            "slug": "produkciya"
+                1
+            ]
         },
         {
             "id": 4,
-            "name": "Новости АЛКАМ",
-            "slug": "novosti-alkam"
-        },
-        {
-            "id": 5,
-            "name": "Металлургия",
-            "slug": "metallurgiya"
-        }
-    ]
-}
-
-
-/api/articles/?category=oborudovanie
-{
-    "links": {
-        "next": "http://127.0.0.1:8000/api/articles/?category=oborudovanie&page=2",
-        "previous": null
-    },
-    "count": 5,
-    "result": [
-        {
-            "id": 1,
+            "title": "статья 4",
+            "slug": "statya-4",
+            "content_concise": "Description",
+            "image_url": "/media/images/image_105_ehqaNJp.jpg",
+            "date": "2024-03-06",
             "categories": [
-                {
-                    "id": 2,
-                    "name": "Оборудование",
-                    "slug": "oborudovanie"
-                },
-                {
-                    "id": 4,
-                    "name": "Новости АЛКАМ",
-                    "slug": "novosti-alkam"
-                }
-            ],
-            "content_preview": "<p><img alt=\"\" src=\"/media/uploads/2024/03/06/image-105.jpg\" style=\"height:197px; width:352px\" />аыв",
-            "title": "статья 1",
-            "slug": "statya-1",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_fjk2sjH.jpg",
-            "date": "2024-03-06"
-        },
-        {
-            "id": 3,
-            "categories": [
-                {
-                    "id": 2,
-                    "name": "Оборудование",
-                    "slug": "oborudovanie"
-                }
-            ],
-            "content_preview": "авпвапдледжеуукеу",
-            "title": "статья 3",
-            "slug": "statya-3",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_o97VQMH.jpg",
-            "date": "2024-03-06"
-        },
-        {
-            "id": 5,
-            "categories": [
-                {
-                    "id": 2,
-                    "name": "Оборудование",
-                    "slug": "oborudovanie"
-                }
-            ],
-            "content_preview": "фапкупкупва",
-            "title": "статья 5",
-            "slug": "statya-5",
-            "image_url": "http://127.0.0.1:8000/media/images/image_105_8KJr5mF.jpg",
-            "date": "2024-03-06"
+                1,
+                5
+            ]
         }
     ],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Алюминиевый прокат",
-            "slug": "alyuminievyj-prokat"
-        },
-        {
-            "id": 2,
-            "name": "Оборудование",
-            "slug": "oborudovanie"
-        },
-        {
-            "id": 3,
-            "name": "Продукция",
-            "slug": "produkciya"
-        },
-        {
-            "id": 4,
-            "name": "Новости АЛКАМ",
-            "slug": "novosti-alkam"
-        },
-        {
-            "id": 5,
-            "name": "Металлургия",
-            "slug": "metallurgiya"
-        }
-    ]
+    "categories": {
+        "1": "Алюминиевый прокат",
+        "2": "Оборудование",
+        "3": "Продукция",
+        "4": "Новости АЛКАМ",
+        "5": "Металлургия"
+    }
 }
 
 
 /api/articles/statya-1/
 {
     "id": 1,
-    "categories": [
-        {
-            "id": 2,
-            "name": "Оборудование",
-            "slug": "oborudovanie"
-        },
-        {
-            "id": 4,
-            "name": "Новости АЛКАМ",
-            "slug": "novosti-alkam"
-        }
-    ],
     "title": "статья 1",
-    "slug": "statya-1",
     "content": "<p><img alt=\"\" src=\"/media/uploads/2024/03/06/image-105.jpg\" style=\"height:197px; width:352px\" />аывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыы</p>\r\n\r\n<p>аывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыыаывыаываыы</p>",
-    "image_url": "http://127.0.0.1:8000/media/images/image_105_fjk2sjH.jpg",
     "date": "2024-03-06"
 }
 
@@ -408,31 +253,3 @@
 ]
 
 
-/api/articles/categories/
-[
-    {
-        "id": 1,
-        "name": "Алюминиевый прокат",
-        "slug": "alyuminievyj-prokat"
-    },
-    {
-        "id": 2,
-        "name": "Оборудование",
-        "slug": "oborudovanie"
-    },
-    {
-        "id": 3,
-        "name": "Продукция",
-        "slug": "produkciya"
-    },
-    {
-        "id": 4,
-        "name": "Новости АЛКАМ",
-        "slug": "novosti-alkam"
-    },
-    {
-        "id": 5,
-        "name": "Металлургия",
-        "slug": "metallurgiya"
-    }
-]
