@@ -7,7 +7,7 @@ from .models import *
 class ArticleCategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = ArticleCategory
-        fields = "__all__"
+        exclude = ("slug",)
 
 class ArticleSerializer(serializers.ModelSerializer):
 

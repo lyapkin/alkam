@@ -24,6 +24,7 @@ class ArticleApi(viewsets.ReadOnlyModelViewSet):
         for cat in categories.values():
             cats[cat["id"]] = cat["name"]
         articles_serializer = ArticleListSerializer(articles, many=True)
-        return Response({"articles": articles_serializer.data, "categories": cats})
+        categories_serializer = ArticleCategorySerializer(categories, many=True)
+        return Response({"articles": articles_serializer.data, "categories": categories_serializer.data})
 
 
