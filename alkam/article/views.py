@@ -11,20 +11,20 @@ from .serializers import *
 class ArticleApi(viewsets.ReadOnlyModelViewSet):
     lookup_field = "slug"
     queryset = Article.objects.order_by("-id")
-    serializer_class = ArticleSerializer
-    serializers_action_classes = {
-        "list": ArticleListSerializer,
+    serializer_action_classes = {
+        "list": ArticlePreviewSerializer,
         "retrieve": ArticleSerializer
     }
 
+    def get_serializer_class(self):
+        return self.serializer_action_classes[self.action]
+    
     def list(self, request, *args, **kwargs):
-        articles = self.get_queryset()
-        categories = ArticleCategory.objects.all()
-        cats = {}
-        for cat in categories.values():
-            cats[cat["id"]] = cat["name"]
-        articles_serializer = ArticleListSerializer(articles, many=True)
-        categories_serializer = ArticleCategorySerializer(categories, many=True)
-        return Response({"articles": articles_serializer.data, "categories": categories_serializer.data})
+        response_obj = {
+            "articles": self.get_queryset(),
+            "categories": ArticleCategory.objects.all()
+        }
+        return Response(ArticleCategoriesListSerializer(response_obj).data)
+
 
 
