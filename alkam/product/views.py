@@ -37,16 +37,16 @@ class ProductApi(viewsets.ReadOnlyModelViewSet):
         return queryset
 
     @action(detail=False)
-    def categories(self, request):
+    def filters_list(self, request):
+        alloys = AlloyType.objects.all()
+        alloysSerializer = AlloyTypeSerializer(alloys, many=True)
         categories = ProductCategory.objects.all()
-        serializer = ProductCategorySerializer(categories, many=True)
-        return Response(serializer.data)
-    
-    @action(detail=False)
-    def alloys(self, request):
-        categories = AlloyType.objects.all()
-        serializer = AlloyTypeSerializer(categories, many=True)
-        return Response(serializer.data)
+        categoriesSerializer = ProductCategorySerializer(categories, many=True)
+        result = {
+            "alloys": alloysSerializer.data,
+            "categories": categoriesSerializer.data
+        }
+        return Response(result)
 
 
 class ProductGroupedByCategoryApi(generics.ListAPIView):

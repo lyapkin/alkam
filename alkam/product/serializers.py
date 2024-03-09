@@ -41,25 +41,7 @@ class ProductCategorySerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
-class ProductSupplyConditionSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ProductSupplyCondition
-        fields = "__all__"
-
-
 class AlloyTypeSerializer(serializers.ModelSerializer):
     class Meta:
         model = AlloyType
-        fields = "__all__"
-
-
-class ProductStandardSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ProductStandard
-        fields = "__all__"
-
-
-class ProductMaterialSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ProductMaterial
         fields = "__all__"
