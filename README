@@ -175,19 +175,6 @@
 ]
 
 
-/api/products/1
-{
-    "id": 1,
-    "product_category": "Лист",
-    "supply_condition": "Т1",
-    "alloy_type": "Д16",
-    "standard": "ГОСТ 21631-76",
-    "thickness": "0.5-5.0",
-    "width": "1000-1200",
-    "length": "2000-4000"
-}
-
-
 /api/products/filters_list
 {
     "alloys": [
@@ -265,65 +252,3 @@
         }
     ]
 }
-
-
-; /api/products/alloys
-; [
-;     {
-;         "id": 1,
-;         "name": "Д16",
-;         "slug": "d16"
-;     },
-;     {
-;         "id": 2,
-;         "name": "ВД1",
-;         "slug": "vd1"
-;     },
-;     {
-;         "id": 3,
-;         "name": "В95",
-;         "slug": "v95"
-;     },
-;     {
-;         "id": 4,
-;         "name": "1105",
-;         "slug": "1105"
-;     },
-;     {
-;         "id": 5,
-;         "name": "2024",
-;         "slug": "2024"
-;     },
-;     {
-;         "id": 6,
-;         "name": "2017А",
-;         "slug": "2017a"
-;     }
-; ]
-
-
-; /api/products/categories
-; [
-;     {
-;         "id": 1,
-;         "name": "Лист",
-;         "slug": "list"
-;     },
-;     {
-;         "id": 2,
-;         "name": "Листы рифленые",
-;         "slug": "listy-riflenye"
-;     },
-;     {
-;         "id": 3,
-;         "name": "Плита",
-;         "slug": "plita"
-;     },
-;     {
-;         "id": 4,
-;         "name": "Профиль пресс",
-;         "slug": "profil-press"
-;     }
-; ]
-
-
