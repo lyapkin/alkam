@@ -24,14 +24,11 @@ from rest_framework import routers
 from article.views import ArticleApi
 from product.views import ProductApi
 
-router = routers.SimpleRouter()
-router.register(r'api/articles', ArticleApi)
-router.register(r'api/products', ProductApi)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('ckeditor/', include('ckeditor_uploader.urls')),
     path('api/articles/', include('article.urls')),
     path('api/products/', include('product.urls')),
-    path('', include(router.urls)),
+    path('api/contacts/', include('contacts.urls'))
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
