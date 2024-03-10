@@ -79,6 +79,6 @@ class ProductGroupedByCategoryApi(generics.ListAPIView):
             product_item = {}
             product_item["typeSlug"] = t.slug
             product_item["typeName"] = t.name
-            product_item["products"] = ProductSerializer(t.products.all()[:5], many=True).data
+            product_item["products"] = ProductPreviewSerializer(t.products.all()[:5], many=True).data
             products.append(product_item)
         return Response(products)

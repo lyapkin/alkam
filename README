@@ -100,7 +100,6 @@
 
 
 /api/products/?grouped
-/api/products/grouped/
 [
     {
         "typeSlug": "list",
@@ -155,6 +154,62 @@
                 "thickness": "0.2-5.0",
                 "width": "15-16",
                 "length": "12-15"
+            }
+        ]
+    },
+    {
+        "typeSlug": "listy-riflenye",
+        "typeName": "Листы рифленые",
+        "products": []
+    },
+    {
+        "typeSlug": "plita",
+        "typeName": "Плита",
+        "products": []
+    },
+    {
+        "typeSlug": "profil-press",
+        "typeName": "Профиль пресс",
+        "products": []
+    }
+]
+
+
+/api/products/preview/
+[
+    {
+        "typeSlug": "list",
+        "typeName": "Лист",
+        "products": [
+            {
+                "id": 1,
+                "product_category": "Лист",
+                "alloy_type": "Д16",
+                "standard": "ГОСТ 21631-76"
+            },
+            {
+                "id": 2,
+                "product_category": "Лист",
+                "alloy_type": "2017А",
+                "standard": "ТУ 1-2-546-2000"
+            },
+            {
+                "id": 3,
+                "product_category": "Лист",
+                "alloy_type": "В95",
+                "standard": "ГОСТ 21631-76"
+            },
+            {
+                "id": 4,
+                "product_category": "Лист",
+                "alloy_type": "1105",
+                "standard": "ОСТ 1.92073-82"
+            },
+            {
+                "id": 5,
+                "product_category": "Лист",
+                "alloy_type": "1105",
+                "standard": "ТУ 1-2-546-2000"
             }
         ]
     },

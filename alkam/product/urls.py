@@ -9,5 +9,5 @@ router.register(r'', ProductApi)
 
 urlpatterns = [
     path('', include(router.urls)),
-    path('grouped/', ProductGroupedByCategoryApi.as_view(), name="products_grouped")
+    path('preview/', ProductGroupedByCategoryApi.as_view(), name="products_preview")
 ]

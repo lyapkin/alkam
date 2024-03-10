@@ -45,3 +45,18 @@ class AlloyTypeSerializer(serializers.ModelSerializer):
     class Meta:
         model = AlloyType
         fields = "__all__"
+
+
+class ProductPreviewSerializer(serializers.ModelSerializer):
+    product_category = serializers.StringRelatedField()
+    alloy_type = serializers.StringRelatedField()
+    standard = serializers.StringRelatedField()
+
+    class Meta:
+        model = Product
+        fields = (
+            "id",
+            "product_category",
+            "alloy_type",
+            "standard",
+        )
