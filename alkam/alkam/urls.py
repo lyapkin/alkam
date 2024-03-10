@@ -18,11 +18,6 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
-from rest_framework import routers
-
-
-from article.views import ArticleApi
-from product.views import ProductApi
 
 
 urlpatterns = [
@@ -30,5 +25,6 @@ urlpatterns = [
     path('ckeditor/', include('ckeditor_uploader.urls')),
     path('api/articles/', include('article.urls')),
     path('api/products/', include('product.urls')),
-    path('api/contacts/', include('contacts.urls'))
+    path('api/contacts/', include('contacts.urls')),
+    path('api/company/', include('company.urls'))
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

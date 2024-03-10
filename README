@@ -252,3 +252,43 @@
         }
     ]
 }
+
+
+/api/company/about/1/
+{
+    "id": 1,
+    "text": "<h2>...</h2>"
+}
+
+
+/api/contacts/
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Приемная",
+            "telephone_number": 1
+        },
+        {
+            "id": 2,
+            "name": "Отдел продаж",
+            "telephone_number": 2
+        },
+        {
+            "id": 3,
+            "name": "Цветные металлы",
+            "telephone_number": 3
+        },
+        {
+            "id": 4,
+            "name": "Бухгалтерия",
+            "telephone_number": 4
+        }
+    ],
+    "address": {
+        "region": "Свердловская область",
+        "city": "Каменск-Уральский",
+        "address": "ул. Заводская, 9/8",
+        "map": "<script type=\"text/javascript\" charset=\"utf-8\" async src=\"https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af23f57325491a287d30a1709cc1f8a6c2d76590225bf8488c72fa86d75a442f5&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true\"></script>"
+    }
+}

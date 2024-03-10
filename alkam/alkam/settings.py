@@ -49,7 +49,8 @@ INSTALLED_APPS = [
     'ckeditor_uploader',
     'article',
     'product',
-    'contacts'
+    'contacts',
+    'company'
 ]
 
 MIDDLEWARE = [
