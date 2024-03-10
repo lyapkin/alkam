@@ -99,6 +99,7 @@
 }
 
 
+/api/products/?grouped
 /api/products/grouped/
 [
     {
