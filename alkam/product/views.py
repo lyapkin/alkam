@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from rest_framework import viewsets, generics
+from rest_framework import viewsets, generics, mixins
 from rest_framework.pagination import PageNumberPagination
 from rest_framework.response import Response
 from rest_framework.decorators import action
@@ -12,7 +12,7 @@ class ProductAPIListPagination(PageNumberPagination):
     page_size_query_param = "page_size"
     max_page_size = 50
     
-class ProductApi(viewsets.ReadOnlyModelViewSet):
+class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
     queryset = Product.objects.all()
     serializer_class = ProductSerializer
     pagination_class = ProductAPIListPagination

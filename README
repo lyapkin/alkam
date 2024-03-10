@@ -1,3 +1,4 @@
+# Спсок статей
 /api/articles/
 {
     "articles": [
@@ -49,7 +50,7 @@
     ]
 }
 
-
+# Статья
 /api/articles/statya-1/
 {
     "id": 1,
@@ -58,7 +59,7 @@
     "date": "2024-03-06"
 }
 
-
+# Спсок продукции с пагинацией
 /api/products/
 {
     "count": 7,
@@ -98,7 +99,7 @@
     ]
 }
 
-
+# Два варианта api для продукции разбитой по группам на главной странице
 /api/products/?grouped
 [
     {
@@ -174,7 +175,6 @@
     }
 ]
 
-
 /api/products/preview/
 [
     {
@@ -231,6 +231,7 @@
 ]
 
 
+# Список (сплав и тип продукции) для фильтрации продукции
 /api/products/filters_list
 {
     "alloys": [
@@ -290,6 +291,7 @@
 }
 
 
+# Фильтрация продукции
 /api/products/?alloy=d16&category=list
 {
     "count": 1,
@@ -310,6 +312,7 @@
 }
 
 
+# Второй блок раздела "О компании"
 /api/company/about/1/
 {
     "id": 1,
@@ -317,28 +320,29 @@
 }
 
 
+# Контакты отделов и адрес компании
 /api/contacts/
 {
     "departments": [
         {
             "id": 1,
-            "name": "Приемная",
-            "telephone_number": 1
+            "telephone_number": "+7 (3439) 399-409",
+            "name": "Приемная"
         },
         {
             "id": 2,
-            "name": "Отдел продаж",
-            "telephone_number": 2
+            "telephone_number": "+7 (3439) 399-440",
+            "name": "Отдел продаж"
         },
         {
             "id": 3,
-            "name": "Цветные металлы",
-            "telephone_number": 3
+            "telephone_number": "+7 (3439) 399-404",
+            "name": "Цветные металлы"
         },
         {
             "id": 4,
-            "name": "Бухгалтерия",
-            "telephone_number": 4
+            "telephone_number": "+7 (3439) 399-448",
+            "name": "Бухгалтерия"
         }
     ],
     "address": {

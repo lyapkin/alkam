@@ -16,10 +16,13 @@ class TelephoneNumberSerializer(serializers.ModelSerializer):
 
 
 class DepartmentSerializer(serializers.ModelSerializer):
+    telephone_number = serializers.StringRelatedField()
+
     class Meta:
         model = Department
         fields = "__all__"
-    
+
+
 
 class ContactsSerializer(serializers.BaseSerializer):
 
