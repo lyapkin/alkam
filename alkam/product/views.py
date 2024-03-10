@@ -17,17 +17,27 @@ class ProductApi(viewsets.ReadOnlyModelViewSet):
     serializer_class = ProductSerializer
     pagination_class = ProductAPIListPagination
 
+    def list(self, request, *args, **kwargs):
+        if "grouped" in request.query_params:
+            return self.group()
+        
+        return super().list(request, *args, **kwargs)
+
     def get_queryset(self):
         queryset = Product.objects.all()
 
-        alloy_slug = self.request.query_params.get("alloy")
+        query_params = self.request.query_params
+        if "grouped" in query_params:
+            return queryset
+
+        alloy_slug = query_params.get("alloy")
         if alloy_slug is not None:
             alloy_type = AlloyType.objects.filter(slug=alloy_slug)
             if alloy_type.count() == 0: return Product.objects.none()
 
             queryset = queryset.filter(alloy_type=alloy_type[0])
 
-        category_slug = self.request.query_params.get("category")
+        category_slug = query_params.get("category")
         if category_slug is not None:
             category = ProductCategory.objects.filter(slug=category_slug)
             if category.count() == 0: return Product.objects.none()
@@ -47,6 +57,17 @@ class ProductApi(viewsets.ReadOnlyModelViewSet):
             "categories": categoriesSerializer.data
         }
         return Response(result)
+    
+    def group(self):
+        queryset = ProductCategory.objects.all()
+        products = []
+        for t in queryset:
+            product_item = {}
+            product_item["typeSlug"] = t.slug
+            product_item["typeName"] = t.name
+            product_item["products"] = ProductSerializer(t.products.all(), many=True).data
+            products.append(product_item)
+        return Response(products)
 
 
 class ProductGroupedByCategoryApi(generics.ListAPIView):
