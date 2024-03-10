@@ -6,7 +6,7 @@ from .models import *
 class AddressSerializer(serializers.ModelSerializer):
     class Meta:
         model = Address
-        fields = ("region", "city", "address")
+        fields = ("region", "city", "address", "map")
 
 
 class TelephoneNumberSerializer(serializers.ModelSerializer):
