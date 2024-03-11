@@ -31,21 +31,21 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
             return queryset
 
         alloy_slug = query_params.get("alloy")
-        if alloy_slug is not None:
+        if alloy_slug is not None and alloy_slug != "all":
             alloy_type = AlloyType.objects.filter(slug=alloy_slug)
             if alloy_type.count() == 0: return Product.objects.none()
 
             queryset = queryset.filter(alloy_type=alloy_type[0])
 
         category_slug = query_params.get("category")
-        if category_slug is not None:
+        if category_slug is not None and category_slug != "all":
             category = ProductCategory.objects.filter(slug=category_slug)
             if category.count() == 0: return Product.objects.none()
 
             queryset = queryset.filter(product_category=category[0])
 
         material_slug = query_params.get("material")
-        if material_slug is not None:
+        if material_slug is not None and material_slug != "all":
             material = ProductMaterial.objects.filter(slug=material_slug)
             if material.count() == 0: return Product.objects.none()
 
