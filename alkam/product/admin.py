@@ -10,12 +10,15 @@ class ProductCategoryAdmin(admin.ModelAdmin):
 class AlloyTypeAdmin(admin.ModelAdmin):
     prepopulated_fields = {"slug": ("name",)}
 
+class ProductMaterialAdmin(admin.ModelAdmin):
+    prepopulated_fields = {"slug": ("name",)}
+
 
 admin.site.register(ProductCategory, ProductCategoryAdmin)
 admin.site.register(AlloyType, AlloyTypeAdmin)
+admin.site.register(ProductMaterial, ProductMaterialAdmin)
 admin.site.register([
     Product,
     ProductSupplyCondition,
-    ProductStandard,
-    ProductMaterial
+    ProductStandard
 ])
