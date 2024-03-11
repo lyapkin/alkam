@@ -44,7 +44,7 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
 
             queryset = queryset.filter(product_category=category[0])
 
-        material_slug = query_params.get("category")
+        material_slug = query_params.get("material")
         if material_slug is not None:
             material = ProductMaterial.objects.filter(slug=material_slug)
             if material.count() == 0: return Product.objects.none()
