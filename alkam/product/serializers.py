@@ -51,7 +51,7 @@ class AlloyTypeSerializer(serializers.ModelSerializer):
 
 class ProductMaterialSerializer(serializers.ModelSerializer):
     class Meta:
-        model = AlloyType
+        model = ProductMaterial
         fields = "__all__"
 
 
