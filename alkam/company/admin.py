@@ -20,5 +20,18 @@ class AboutAdmin(admin.ModelAdmin):
     
     def has_delete_permission(self, request, obj=None):
         return False
+    
+
+class ProjectAdminForm(forms.ModelForm):
+    content = forms.CharField(widget=CKEditorUploadingWidget())
+    class Meta:
+        model = Project
+        fields = '__all__'
+
+class ProjectAdmin(admin.ModelAdmin):
+    form = ProjectAdminForm
+    exclude = ("preview",)
+
 
 admin.site.register(About, AboutAdmin)
+admin.site.register(Project, ProjectAdmin)

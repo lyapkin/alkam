@@ -164,18 +164,14 @@ CKEDITOR_CONFIGS = {
             {'name': 'clipboard', 'items': ['Cut', 'Copy', 'Paste', '-', 'Undo', 'Redo']},
             {'name': 'editing', 'items': ['Find', '-', 'SelectAll']},
             '/',
-            {'name': 'basicstyles',
-             'items': ['Bold', 'Italic', 'Underline', 'Strike', 'Subscript', 'Superscript']},
             {'name': 'paragraph',
-             'items': ['NumberedList', 'BulletedList', '-', 'Blockquote']},
+             'items': ['NumberedList', 'BulletedList']},
             {'name': 'links', 'items': ['Link', 'Unlink']},
             {'name': 'insert',
              'items': ['Image', 'Youtube', 'Html5video', 'Table', 'HorizontalRule', 'SpecialChar']},
             '/',
-            {'name': 'styles', 'items': ['Styles', 'Format', 'Font', 'FontSize']},
-            # {'name': 'colors', 'items': ['TextColor', 'BGColor']},
+            {'name': 'styles', 'items': ['Format']},
             {'name': 'tools', 'items': ['Maximize', 'ShowBlocks']},
-            {'name': 'about', 'items': ['About']},
         ],
         'toolbar': 'YourCustomToolbarConfig',  # put selected toolbar config here
         # 'toolbarGroups': [{ 'name': 'document', 'groups': [ 'mode', 'document', 'doctools' ] }],
@@ -189,8 +185,8 @@ CKEDITOR_CONFIGS = {
         'extraPlugins': ','.join([
             'youtube',
             'html5video',
-            'preview',
-            'embed'
+            'preview'
         ]),
+        'extraAllowedContent': 'iframe[*]'
     }
 }

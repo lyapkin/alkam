@@ -9,3 +9,14 @@ from .serializers import *
 class AboutApi(viewsets.GenericViewSet, mixins.RetrieveModelMixin):
     queryset = About.objects.all()
     serializer_class = AboutSerializer
+
+
+class ProjectApi(viewsets.ReadOnlyModelViewSet):
+    queryset = Project.objects.all()
+    serializer_action_classes = {
+        "retrieve": ProjectSerializer,
+        "list": ProjectListSerializer
+    }
+
+    def get_serializer_class(self):
+        return self.serializer_action_classes[self.action]

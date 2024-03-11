@@ -6,7 +6,7 @@ from .views import ArticleApi
 from product.views import ProductApi
 
 router = routers.SimpleRouter()
-router.register(r'', ArticleApi)
+router.register('', ArticleApi)
 
 urlpatterns = [
     path('', include(router.urls)),
