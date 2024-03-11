@@ -44,6 +44,13 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
 
             queryset = queryset.filter(product_category=category[0])
 
+        material_slug = query_params.get("category")
+        if material_slug is not None:
+            material = ProductMaterial.objects.filter(slug=material_slug)
+            if material.count() == 0: return Product.objects.none()
+
+            queryset = queryset.filter(product_material=material[0])
+
         return queryset
 
     @action(detail=False)
@@ -52,9 +59,12 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
         alloysSerializer = AlloyTypeSerializer(alloys, many=True)
         categories = ProductCategory.objects.all()
         categoriesSerializer = ProductCategorySerializer(categories, many=True)
+        materials = ProductMaterial.objects.all()
+        materialsSerializer = ProductMaterialSerializer(materials, many=True)
         result = {
             "alloys": alloysSerializer.data,
-            "categories": categoriesSerializer.data
+            "categories": categoriesSerializer.data,
+            "materials": materialsSerializer.data
         }
         return Response(result)
     

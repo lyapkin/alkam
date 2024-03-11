@@ -1,4 +1,5 @@
 from django.db import models
+from ckeditor_uploader.fields import RichTextUploadingField
 
 from .utils import upload_to
 
@@ -7,7 +8,7 @@ from .utils import upload_to
 class Article(models.Model):
     title = models.CharField("заголовок", max_length=100, unique=True)
     slug = models.SlugField("url", max_length=100, unique=True)
-    content = models.TextField("текст статьи")
+    content = RichTextUploadingField("текст статьи")
     content_concise = models.TextField("краткое описание статьи", max_length=120, default="Description")
     image_url = models.ImageField("изображение", upload_to=upload_to)
     date = models.DateField("дата", auto_now_add=True)

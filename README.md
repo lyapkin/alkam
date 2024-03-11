@@ -77,31 +77,31 @@
             "id": 1,
             "product_category": "Лист",
             "supply_condition": "Т1",
-            "alloy_type": "Д16",
             "standard": "ГОСТ 21631-76",
             "thickness": "0.5-5.0",
             "width": "1000-1200",
-            "length": "2000-4000"
+            "length": "2000-4000",
+            "material": "Алюминий"
         },
         {
             "id": 2,
             "product_category": "Лист",
             "supply_condition": "Н2",
-            "alloy_type": "2017А",
             "standard": "ТУ 1-2-546-2000",
             "thickness": "0.2-5.0",
             "width": "1000-1200",
-            "length": "4000-5000"
+            "length": "4000-5000",
+            "material": "Алюминий"
         },
         {
             "id": 3,
             "product_category": "Лист",
             "supply_condition": "М",
-            "alloy_type": "В95",
             "standard": "ГОСТ 21631-76",
             "thickness": "0.4-0.7",
             "width": "6-6",
-            "length": "3-5"
+            "length": "3-5",
+            "material": "Алюминий"
         }
     ]
 }
@@ -120,51 +120,71 @@
                 "id": 1,
                 "product_category": "Лист",
                 "supply_condition": "Т1",
-                "alloy_type": "Д16",
                 "standard": "ГОСТ 21631-76",
                 "thickness": "0.5-5.0",
                 "width": "1000-1200",
-                "length": "2000-4000"
+                "length": "2000-4000",
+                "material": "Алюминий"
             },
             {
                 "id": 2,
                 "product_category": "Лист",
                 "supply_condition": "Н2",
-                "alloy_type": "2017А",
                 "standard": "ТУ 1-2-546-2000",
                 "thickness": "0.2-5.0",
                 "width": "1000-1200",
-                "length": "4000-5000"
+                "length": "4000-5000",
+                "material": "Алюминий"
             },
             {
                 "id": 3,
                 "product_category": "Лист",
                 "supply_condition": "М",
-                "alloy_type": "В95",
                 "standard": "ГОСТ 21631-76",
                 "thickness": "0.4-0.7",
                 "width": "6-6",
-                "length": "3-5"
+                "length": "3-5",
+                "material": "Алюминий"
             },
             {
                 "id": 4,
                 "product_category": "Лист",
                 "supply_condition": "Т1",
-                "alloy_type": "1105",
                 "standard": "ОСТ 1.92073-82",
                 "thickness": "0.1-0.3",
                 "width": "7-10",
-                "length": "12-14"
+                "length": "12-14",
+                "material": "Алюминий"
             },
             {
                 "id": 5,
                 "product_category": "Лист",
                 "supply_condition": "Н2",
-                "alloy_type": "1105",
                 "standard": "ТУ 1-2-546-2000",
                 "thickness": "0.2-5.0",
                 "width": "15-16",
-                "length": "12-15"
+                "length": "12-15",
+                "material": "Алюминий"
+            },
+            {
+                "id": 6,
+                "product_category": "Лист",
+                "supply_condition": "Т1",
+                "standard": "ТУ 1-2-546-2000",
+                "thickness": "1.0-2.0",
+                "width": "1-2",
+                "length": "1-2",
+                "material": "Алюминий"
+            },
+            {
+                "id": 7,
+                "product_category": "Лист",
+                "supply_condition": "Н2",
+                "standard": "ТУ 1-2-607-2005",
+                "thickness": "1.0-2.0",
+                "width": "1-2",
+                "length": "12-13",
+                "material": "Алюминий"
             }
         ]
     },
@@ -197,31 +217,36 @@
                 "id": 1,
                 "product_category": "Лист",
                 "alloy_type": "Д16",
-                "standard": "ГОСТ 21631-76"
+                "standard": "ГОСТ 21631-76",
+                "material": "Алюминий"
             },
             {
                 "id": 2,
                 "product_category": "Лист",
                 "alloy_type": "2017А",
-                "standard": "ТУ 1-2-546-2000"
+                "standard": "ТУ 1-2-546-2000",
+                "material": "Алюминий"
             },
             {
                 "id": 3,
                 "product_category": "Лист",
                 "alloy_type": "В95",
-                "standard": "ГОСТ 21631-76"
+                "standard": "ГОСТ 21631-76",
+                "material": "Алюминий"
             },
             {
                 "id": 4,
                 "product_category": "Лист",
                 "alloy_type": "1105",
-                "standard": "ОСТ 1.92073-82"
+                "standard": "ОСТ 1.92073-82",
+                "material": "Алюминий"
             },
             {
                 "id": 5,
                 "product_category": "Лист",
                 "alloy_type": "1105",
-                "standard": "ТУ 1-2-546-2000"
+                "standard": "ТУ 1-2-546-2000",
+                "material": "Алюминий"
             }
         ]
     },
@@ -300,6 +325,13 @@
             "id": 4,
             "name": "Профиль пресс",
             "slug": "profil-press"
+        }
+    ],
+    "materials": [
+        {
+            "id": 1,
+            "name": "Алюминий",
+            "slug": "alyuminiy"
         }
     ]
 }

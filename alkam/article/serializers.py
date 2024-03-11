@@ -1,12 +1,22 @@
 from rest_framework import serializers
+from django.conf import settings
 
 from .models import *
 
 
+class ContentFieldSerializer(serializers.Field):
+    def to_representation(self, value):
+        content = value.replace("src=\"/media/", f"src=\"{settings.SITE_DOMAIN}/media/")
+        return content
+    
+
 class ArticleSerializer(serializers.ModelSerializer):
+    content = ContentFieldSerializer()
+
     class Meta:
         model = Article
         fields = ("id", "title", "content", "date")
+
 
 class ArticleCategorySerializer(serializers.ModelSerializer):
     class Meta:

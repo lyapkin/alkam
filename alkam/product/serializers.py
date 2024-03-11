@@ -11,6 +11,7 @@ class ProductSerializer(serializers.ModelSerializer):
     supply_condition = serializers.StringRelatedField()
     alloy_type = serializers.StringRelatedField()
     standard = serializers.StringRelatedField()
+    material = serializers.StringRelatedField()
 
     class Meta:
         model = Product
@@ -22,7 +23,8 @@ class ProductSerializer(serializers.ModelSerializer):
             "standard",
             "thickness",
             "width",
-            "length"
+            "length",
+            "material"
         )
 
     def get_thickness(self, product):
@@ -47,10 +49,17 @@ class AlloyTypeSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+class ProductMaterialSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = AlloyType
+        fields = "__all__"
+
+
 class ProductPreviewSerializer(serializers.ModelSerializer):
     product_category = serializers.StringRelatedField()
     alloy_type = serializers.StringRelatedField()
     standard = serializers.StringRelatedField()
+    material = serializers.StringRelatedField()
 
     class Meta:
         model = Product
@@ -59,4 +68,5 @@ class ProductPreviewSerializer(serializers.ModelSerializer):
             "product_category",
             "alloy_type",
             "standard",
+            "material"
         )
