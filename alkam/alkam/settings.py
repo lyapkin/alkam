@@ -156,6 +156,7 @@ CKEDITOR_UPLOAD_PATH = "uploads/"
 CKEDITOR_BASEPATH = "/static/ckeditor/ckeditor/"
 CKEDITOR_CONFIGS = {
     'default': {
+        "removePlugins": "stylesheetparser",
         'toolbar_Basic': [
             ['Source', '-', 'Bold', 'Italic']
         ],
@@ -187,6 +188,6 @@ CKEDITOR_CONFIGS = {
             'html5video',
             'preview'
         ]),
-        'extraAllowedContent': 'iframe[*]'
+        'extraAllowedContent': ['iframe[*]', 'script ins']
     }
 }
