@@ -56,7 +56,7 @@ class About(models.Model):
 class Project(models.Model):
     preview_image = models.ImageField("изображение, превью", upload_to=upload_to)
     content = RichTextUploadingField("содержание проекта")
-    preview = models.TextField(max_length=500)
+    preview = models.TextField('краткое описание проекта', max_length=500)
 
     def __str__(self):
         return f"Проект {self.id}"

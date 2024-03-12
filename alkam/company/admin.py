@@ -30,7 +30,6 @@ class ProjectAdminForm(forms.ModelForm):
 
 class ProjectAdmin(admin.ModelAdmin):
     form = ProjectAdminForm
-    exclude = ("preview",)
 
 
 admin.site.register(About, AboutAdmin)
