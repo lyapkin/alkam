@@ -5,38 +5,6 @@ from ckeditor_uploader.fields import RichTextUploadingField
 from io import StringIO
 from html.parser import HTMLParser
 
-class MLStripper(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.reset()
-        self.strict = False
-        self.convert_charrefs= True
-        self.is_write = False
-        self.text = StringIO()
-
-    def handle_starttag(self, tag, attrs):
-        if tag == "p":
-            self.is_write = True
-        else:
-            self.is_write = False
-
-    def handle_endtag(self, tag):
-        if tag == "p":
-            self.is_write = False
-        else:
-            self.is_write = True
-
-    def handle_data(self, d):
-        if self.is_write:
-            self.text.write(d.strip() + " ")
-
-    def get_data(self):
-        return self.text.getvalue()
-
-def strip_tags(html):
-    s = MLStripper()
-    s.feed(html)
-    return s.get_data()
 
 def upload_to(instance, filename):
     return 'images/{filename}'.format(filename=filename)
@@ -63,8 +31,4 @@ class Project(models.Model):
     
     class Meta:
         verbose_name = "проект"
-        verbose_name_plural = "проекты"  
-
-    def save(self, *args, **kwargs):
-        self.preview = strip_tags(self.content).strip()
-        super().save(*args, **kwargs)     
+        verbose_name_plural = "проекты"      
