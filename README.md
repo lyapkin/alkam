@@ -397,37 +397,28 @@
 ```
 
 
-# Контакты отделов и адрес компании
+# Форма запроса звонка
 ```
-/api/contacts/
+/api/requests/calls/
+Body: (заполненые поля обязательные, номер телефона валидируется на бэке)
 {
-    "departments": [
-        {
-            "id": 1,
-            "telephone_number": "+7 (3439) 399-409",
-            "name": "Приемная"
-        },
-        {
-            "id": 2,
-            "telephone_number": "+7 (3439) 399-440",
-            "name": "Отдел продаж"
-        },
-        {
-            "id": 3,
-            "telephone_number": "+7 (3439) 399-404",
-            "name": "Цветные металлы"
-        },
-        {
-            "id": 4,
-            "telephone_number": "+7 (3439) 399-448",
-            "name": "Бухгалтерия"
-        }
-    ],
-    "address": {
-        "region": "Свердловская область",
-        "city": "Каменск-Уральский",
-        "address": "ул. Заводская, 9/8",
-        "map": "<script type=\"text/javascript\" charset=\"utf-8\" async src=\"https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Af23f57325491a287d30a1709cc1f8a6c2d76590225bf8488c72fa86d75a442f5&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true\"></script>"
-    }
+    "name": "Андрей",
+    "number": "+79876543210",
+    "comment": ""
+}
+```
+
+
+# Форма запроса коммерческого предложения
+```
+/api/requests/commercials/
+Body: (заполненые поля обязательные, номер телефона валидируется на бэке)
+{
+    "name": "Андрей",
+    "number": "+79876543210",
+    "comment": "",
+    "product_details": "test",
+    "activity_type": "",
+    "company_name": "test"
 }
 ```

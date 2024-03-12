@@ -12,7 +12,7 @@ class AboutApi(viewsets.GenericViewSet, mixins.RetrieveModelMixin):
 
 
 class ProjectApi(viewsets.ReadOnlyModelViewSet):
-    queryset = Project.objects.all()
+    queryset = Project.objects.order_by('-id')
     serializer_action_classes = {
         "retrieve": ProjectSerializer,
         "list": ProjectListSerializer

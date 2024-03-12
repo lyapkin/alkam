@@ -50,7 +50,8 @@ INSTALLED_APPS = [
     'article',
     'product',
     'contacts',
-    'company'
+    'company',
+    'clientRequests'
 ]
 
 MIDDLEWARE = [
