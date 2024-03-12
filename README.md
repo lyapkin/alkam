@@ -371,6 +371,32 @@
 ```
 
 
+# Проекты
+```
+/api/company/projects/
+[
+    {
+        "id": 1,
+        "preview": "НачалПараграф Параграф Параграф Параграф Параграф Параграф Параграф Параграф Параграф Параграф Параграф Параграф2 Параграф2 Параграф2 Параграф2 Параграф2   fdsfsdfsdfsdfs sdfsdfsfsdfssdfsdfsdfsd",
+        "preview_image": "http://127.0.0.1:8000/media/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-03-11_154143.png"
+    },
+    {
+        "id": 2,
+        "preview": "параграффффпараграффффпараграфф...",
+        "preview_image": "http://127.0.0.1:8000/media/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-03-11_154143_bvGQGui.png"
+    }
+]
+```
+
+```
+/api/company/projects/1/
+{
+    "id": 1,
+    "content": "<h1>Заголовок</h1>\r\n\r\n<p>НачалПараграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;Параграф&nbsp;</p>\r\n\r\n<p><img alt=\"\" src=\"http://localhost:8000/media/uploads/2024/03/06/image-105.jpg\" style=\"height:197px; width:352px\" /></p>\r\n\r\n<p>Параграф2&nbsp;Параграф2&nbsp;<img alt=\"\" src=\"http://localhost:8000/media/uploads/2024/03/06/image-105.jpg\" style=\"height:197px; width:352px\" />Параграф2&nbsp;Параграф2&nbsp;Параграф2&nbsp;</p>\r\n\r\n<hr />\r\n<h2>Заголовок 2</h2>\r\n\r\n<p>fdsfsdfsdfsdfs</p>\r\n\r\n<p>sdfsdfsfsdfssdfsdfsdfsd</p>\r\n\r\n<p><img alt=\"\" src=\"http://localhost:8000/media/uploads/2024/03/06/image-105.jpg\" style=\"height:197px; width:352px\" /></p>\r\n\r\n<p>&nbsp;</p>"
+}
+```
+
+
 # Контакты отделов и адрес компании
 ```
 /api/contacts/

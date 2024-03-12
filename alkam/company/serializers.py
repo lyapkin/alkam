@@ -6,7 +6,6 @@ from .models import *
 
 class TextFieldSerializer(serializers.Field):
     def to_representation(self, value):
-        print(value)
         text = value.replace("src=\"/media/", f"src=\"{settings.SITE_DOMAIN}/media/")
         return text
 
