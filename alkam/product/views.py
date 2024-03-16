@@ -8,12 +8,12 @@ from .models import *
 from .serializers import *
 
 class ProductAPIListPagination(PageNumberPagination):
-    page_size = 3
+    page_size = 10
     page_size_query_param = "page_size"
     max_page_size = 50
     
 class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
-    queryset = Product.objects.all()
+    queryset = Product.objects.order_by("-id")
     serializer_class = ProductSerializer
     pagination_class = ProductAPIListPagination
 
@@ -24,7 +24,7 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
         return super().list(request, *args, **kwargs)
 
     def get_queryset(self):
-        queryset = Product.objects.all()
+        queryset = Product.objects.order_by("-id")
 
         query_params = self.request.query_params
         if "grouped" in query_params:
@@ -55,11 +55,11 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
 
     @action(detail=False)
     def filters_list(self, request):
-        alloys = AlloyType.objects.all()
+        alloys = AlloyType.objects.order_by("-id")
         alloysSerializer = AlloyTypeSerializer(alloys, many=True)
-        categories = ProductCategory.objects.all()
+        categories = ProductCategory.objects.order_by("-id")
         categoriesSerializer = ProductCategorySerializer(categories, many=True)
-        materials = ProductMaterial.objects.all()
+        materials = ProductMaterial.objects.order_by("-id")
         materialsSerializer = ProductMaterialSerializer(materials, many=True)
         result = {
             "alloys": alloysSerializer.data,
@@ -69,13 +69,13 @@ class ProductApi(viewsets.GenericViewSet, mixins.ListModelMixin):
         return Response(result)
     
     def group(self):
-        queryset = ProductCategory.objects.all()
+        queryset = ProductCategory.objects.order_by("-id")
         products = []
         for t in queryset:
             product_item = {}
             product_item["typeSlug"] = t.slug
             product_item["typeName"] = t.name
-            product_item["products"] = ProductSerializer(t.products.all(), many=True).data
+            product_item["products"] = ProductSerializer(t.products.order_by("-id"), many=True).data
             products.append(product_item)
         return Response(products)
 

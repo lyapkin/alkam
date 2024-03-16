@@ -7,6 +7,9 @@ from .models import *
 class ContentFieldSerializer(serializers.Field):
     def to_representation(self, value):
         content = value.replace("src=\"/media/", f"src=\"{settings.SITE_DOMAIN}/media/")
+        content = content.replace("&lt;", "<")
+        content = content.replace("&gt;", ">")
+        content = content.replace("&quot;", "")
         return content
     
 

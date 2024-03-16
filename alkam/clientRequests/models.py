@@ -17,7 +17,7 @@ class Call(models.Model):
 
 
 class CommercialOffer(Call):
-    product_details = models.CharField("название", max_length=50)
+    product_details = models.CharField("продукт", max_length=50)
     activity_type = models.CharField("вид деятельности", max_length=50, null=True, blank=True)
     company_name = models.CharField("наименование предприятия или И.П.", max_length=100)
 

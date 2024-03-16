@@ -1,0 +1,506 @@
+[
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д16",
+            "slug": "d16"
+        },
+        "pk": 63
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "ВД1",
+            "slug": "vd1"
+        },
+        "pk": 62
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "В95",
+            "slug": "v95"
+        },
+        "pk": 61
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1105",
+            "slug": "1105"
+        },
+        "pk": 60
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2024",
+            "slug": "2024"
+        },
+        "pk": 59
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2017А",
+            "slug": "2017a"
+        },
+        "pk": 58
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "6061",
+            "slug": "6061"
+        },
+        "pk": 57
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "6082",
+            "slug": "6082"
+        },
+        "pk": 56
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД 31",
+            "slug": "ad-31"
+        },
+        "pk": 55
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД 33",
+            "slug": "ad-33"
+        },
+        "pk": 54
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД 35",
+            "slug": "ad-35"
+        },
+        "pk": 53
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д16Ч",
+            "slug": "d16ch"
+        },
+        "pk": 52
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д19",
+            "slug": "d19"
+        },
+        "pk": 51
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д19Ч",
+            "slug": "d19ch"
+        },
+        "pk": 50
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д20",
+            "slug": "d20"
+        },
+        "pk": 49
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "В95ПЧ",
+            "slug": "v95pch"
+        },
+        "pk": 48
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "Д1",
+            "slug": "d1"
+        },
+        "pk": 47
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК4-1Ч",
+            "slug": "ak4-1ch"
+        },
+        "pk": 46
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1163",
+            "slug": "1163"
+        },
+        "pk": 45
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1561",
+            "slug": "1561"
+        },
+        "pk": 44
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМГ6",
+            "slug": "amg6"
+        },
+        "pk": 43
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМГ2",
+            "slug": "amg2"
+        },
+        "pk": 42
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМГ3",
+            "slug": "amg3"
+        },
+        "pk": 41
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМГ5",
+            "slug": "amg5"
+        },
+        "pk": 40
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМЦ",
+            "slug": "amts"
+        },
+        "pk": 39
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АМЦС",
+            "slug": "amtss"
+        },
+        "pk": 38
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "А6",
+            "slug": "a6"
+        },
+        "pk": 37
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД",
+            "slug": "ad"
+        },
+        "pk": 36
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "А5",
+            "slug": "a5"
+        },
+        "pk": 35
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "А7",
+            "slug": "a7"
+        },
+        "pk": 34
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД0",
+            "slug": "ad0"
+        },
+        "pk": 33
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД00",
+            "slug": "ad00"
+        },
+        "pk": 32
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД1",
+            "slug": "ad1"
+        },
+        "pk": 31
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "5083",
+            "slug": "5083"
+        },
+        "pk": 30
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1070А",
+            "slug": "1070a"
+        },
+        "pk": 29
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "5086",
+            "slug": "5086"
+        },
+        "pk": 28
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "7075",
+            "slug": "7075"
+        },
+        "pk": 27
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "5754",
+            "slug": "5754"
+        },
+        "pk": 26
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "5052",
+            "slug": "5052"
+        },
+        "pk": 25
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1915",
+            "slug": "1915"
+        },
+        "pk": 24
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1980",
+            "slug": "1980"
+        },
+        "pk": 23
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК4-1",
+            "slug": "ak4-1"
+        },
+        "pk": 22
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1050А",
+            "slug": "1050a"
+        },
+        "pk": 21
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "6060",
+            "slug": "6060"
+        },
+        "pk": 20
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2219",
+            "slug": "2219"
+        },
+        "pk": 19
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2014",
+            "slug": "2014"
+        },
+        "pk": 18
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД31",
+            "slug": "ad31"
+        },
+        "pk": 17
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1925К",
+            "slug": "1925k"
+        },
+        "pk": 16
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АД33",
+            "slug": "ad33"
+        },
+        "pk": 15
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК6",
+            "slug": "ak6"
+        },
+        "pk": 14
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "5456",
+            "slug": "5456"
+        },
+        "pk": 13
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "6063",
+            "slug": "6063"
+        },
+        "pk": 12
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2007",
+            "slug": "2007"
+        },
+        "pk": 11
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2011",
+            "slug": "2011"
+        },
+        "pk": 10
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2014А",
+            "slug": "2014a"
+        },
+        "pk": 9
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "1201",
+            "slug": "1201"
+        },
+        "pk": 8
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АВ",
+            "slug": "av"
+        },
+        "pk": 7
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК12Д",
+            "slug": "ak12d"
+        },
+        "pk": 6
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК4",
+            "slug": "ak4"
+        },
+        "pk": 5
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "АК8",
+            "slug": "ak8"
+        },
+        "pk": 4
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "ВД17",
+            "slug": "vd17"
+        },
+        "pk": 3
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "2030",
+            "slug": "2030"
+        },
+        "pk": 2
+    },
+    {
+        "model": "product.AlloyType",
+        "fields": {
+            "name": "7020",
+            "slug": "7020"
+        },
+        "pk": 1
+    }
+]

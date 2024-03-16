@@ -1,0 +1,793 @@
+[
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92063-78"
+        },
+        "pk": 113
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ"
+        },
+        "pk": 112
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-221-06,AMS-QQ-A200/5"
+        },
+        "pk": 111
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-221-06,AMS/QQ-A200/11,QQ-A200/11F,AMS4169K"
+        },
+        "pk": 110
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 18482-79"
+        },
+        "pk": 109
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221-08"
+        },
+        "pk": 108
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN485-1,2,3,4"
+        },
+        "pk": 107
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-333-94"
+        },
+        "pk": 106
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-2-607-2005"
+        },
+        "pk": 105
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1;EN755-2;EN755-3"
+        },
+        "pk": 104
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221-00"
+        },
+        "pk": 103
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB211,ASTMB594-06"
+        },
+        "pk": 102
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-2-604-2005"
+        },
+        "pk": 101
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221M-07"
+        },
+        "pk": 100
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN485-1,2,3"
+        },
+        "pk": 99
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,AMS4027M,AMS-QQ-A250/11"
+        },
+        "pk": 98
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ВТУ"
+        },
+        "pk": 97
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1;EN755-2;EN755-4"
+        },
+        "pk": 96
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS-4173E,ASTM-B221-08,AMS-QQ-A-200/8,QQ-A-200/8F"
+        },
+        "pk": 95
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN755-9, EN573-3"
+        },
+        "pk": 94
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM B209-07"
+        },
+        "pk": 93
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM-B221-08,QQ-A-200/8,AMS-QQ-A-200/8,AMS4150L"
+        },
+        "pk": 92
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-211-03,QQA225/8E,AMS-QQA-225/8,AMS4117H"
+        },
+        "pk": 91
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-2-306-74"
+        },
+        "pk": 90
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-366-2005"
+        },
+        "pk": 89
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1.2.3"
+        },
+        "pk": 88
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-432-2006"
+        },
+        "pk": 87
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-211-03,QQA225/6,AMS-QQA-225/6,AMS4120R"
+        },
+        "pk": 86
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221-05A"
+        },
+        "pk": 85
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTM-B221-06,QQ-A-200/8F,AMS-QQ-A-200/8,AMS4150L"
+        },
+        "pk": 84
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,AMS-QQ-A250/11"
+        },
+        "pk": 83
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-427-2005"
+        },
+        "pk": 82
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.90246-77"
+        },
+        "pk": 81
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92067-92"
+        },
+        "pk": 80
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-632/B632-02"
+        },
+        "pk": 79
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92058-90"
+        },
+        "pk": 78
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-221-06,AMS-QQ-A200/3,AMS4165H"
+        },
+        "pk": 77
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,AMS-QQ-A250/4,ASTMB-209-07,AMS4037N,BSS7055"
+        },
+        "pk": 76
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-83-54-89"
+        },
+        "pk": 75
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-9"
+        },
+        "pk": 74
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM221-08,ASTMB594"
+        },
+        "pk": 73
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM-B209-07"
+        },
+        "pk": 72
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN485-1;EN485-2;EN485-3"
+        },
+        "pk": 71
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221-06"
+        },
+        "pk": 70
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ Р 51834-2001"
+        },
+        "pk": 69
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN 573-3 / EN    755-1,2,3"
+        },
+        "pk": 68
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 15176-89"
+        },
+        "pk": 67
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.90117-83"
+        },
+        "pk": 66
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1,2,3"
+        },
+        "pk": 65
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN755-2,9"
+        },
+        "pk": 64
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1811-001-50193719-03"
+        },
+        "pk": 63
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN755-1.2.4"
+        },
+        "pk": 62
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN755-1,2,3"
+        },
+        "pk": 61
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 21631-76"
+        },
+        "pk": 60
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS4029"
+        },
+        "pk": 59
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1;EN755-2,EN755-5"
+        },
+        "pk": 58
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,485-1,2,3,4"
+        },
+        "pk": 57
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN754-1,2,3"
+        },
+        "pk": 56
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN 573-3 ; EN 755-9"
+        },
+        "pk": 55
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "SAE AMS-QQ-A 250/12"
+        },
+        "pk": 54
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASMESB221-01"
+        },
+        "pk": 53
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-090-80"
+        },
+        "pk": 52
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-221-08,AMS/QQ-A200/11,QQ-A200/11E,AMS4167H"
+        },
+        "pk": 51
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN485-1/2/3,EN573/3"
+        },
+        "pk": 50
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.90395-91"
+        },
+        "pk": 49
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM-B209-07,AMS-QQA250/12"
+        },
+        "pk": 48
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92001-90"
+        },
+        "pk": 47
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN755-1,2,6"
+        },
+        "pk": 46
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB209-07"
+        },
+        "pk": 45
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92059-90"
+        },
+        "pk": 44
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM B-209-07"
+        },
+        "pk": 43
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS-QQ-A-250/4;AMSSTD2154-98"
+        },
+        "pk": 42
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 8617-81"
+        },
+        "pk": 41
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM-B221-06,QQ-A-200/11E,AMS-QQ-A-200/11,AMS4154N"
+        },
+        "pk": 40
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN 573-3, EN755-1.2.9"
+        },
+        "pk": 39
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB211"
+        },
+        "pk": 38
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.92073-82"
+        },
+        "pk": 37
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN482-1,2,3"
+        },
+        "pk": 36
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB221-08,ASTMB660"
+        },
+        "pk": 35
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ1-804-333-94"
+        },
+        "pk": 34
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTM"
+        },
+        "pk": 33
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-369-2006"
+        },
+        "pk": 32
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN754-1,2,3"
+        },
+        "pk": 31
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 17232-99"
+        },
+        "pk": 30
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-374-2006"
+        },
+        "pk": 29
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ASTMB209-00"
+        },
+        "pk": 28
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-92-161-90"
+        },
+        "pk": 27
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN485-1,2,3"
+        },
+        "pk": 26
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-2-546-2000"
+        },
+        "pk": 25
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-449-2008"
+        },
+        "pk": 24
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-92-47-77"
+        },
+        "pk": 23
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN754-1,2,3"
+        },
+        "pk": 22
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN 573-3 ; EN 755-1 ;    EN 755-2 ; EN 755-3"
+        },
+        "pk": 21
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3;EN755-1;EN755-2;EN755-5"
+        },
+        "pk": 20
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN485-1,2,3"
+        },
+        "pk": 19
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN755-1,2,4"
+        },
+        "pk": 18
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA ASTM B 209-07"
+        },
+        "pk": 17
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS 4027M"
+        },
+        "pk": 16
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-2-303-79"
+        },
+        "pk": 15
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN755-9"
+        },
+        "pk": 14
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ОСТ 1.90113-86"
+        },
+        "pk": 13
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN 573-3 ; EN 755-2 ; EN 755-9"
+        },
+        "pk": 12
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS-QQ-A200/8,ASTMB221-06"
+        },
+        "pk": 11
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AMS-QQ-A-200/8,ASTMB221-08"
+        },
+        "pk": 10
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "AA,ASTMB-221-06,AMS-QQ-A200/3,AMS4152M,"
+        },
+        "pk": 9
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,755-1,2,3"
+        },
+        "pk": 8
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN755-1,2,3"
+        },
+        "pk": 7
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3/EN755-1,2,5"
+        },
+        "pk": 6
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "OCT1-92063-78"
+        },
+        "pk": 5
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ГОСТ 21488-97"
+        },
+        "pk": 4
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN485-1;EN485-2;EN485-3;EN573-3"
+        },
+        "pk": 3
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "EN573-3,EN755-1,2,4"
+        },
+        "pk": 2
+    },
+    {
+        "model": "product.ProductStandard",
+        "fields": {
+            "standard": "ТУ 1-804-474-2009"
+        },
+        "pk": 1
+    }
+]

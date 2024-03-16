@@ -5,8 +5,6 @@ from .models import *
     
 
 class CommonSerializer(serializers.ModelSerializer):
-    def __init__(self, instance=None, data=..., **kwargs):
-        super().__init__(instance, data[0], **kwargs)
 
     def validate_number(self, number):
         result = re.match(r'(^[\+][0-9]{1}[0-9]{3}[0-9]{7}$)', number)

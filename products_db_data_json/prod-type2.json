@@ -1,0 +1,42 @@
+[
+    {
+        "model": "product.ProductCategory",
+        "fields": {
+            "name": "ЛИСТ",
+            "slug": "list"
+        },
+        "pk": 5
+    },
+    {
+        "model": "product.ProductCategory",
+        "fields": {
+            "name": "ЛИСТЫ РИФЛЕНЫЕ",
+            "slug": "listy-riflenye"
+        },
+        "pk": 4
+    },
+    {
+        "model": "product.ProductCategory",
+        "fields": {
+            "name": "ПЛИТА",
+            "slug": "plita"
+        },
+        "pk": 3
+    },
+    {
+        "model": "product.ProductCategory",
+        "fields": {
+            "name": "ПРУТКИ",
+            "slug": "prutki"
+        },
+        "pk": 2
+    },
+    {
+        "model": "product.ProductCategory",
+        "fields": {
+            "name": "ПРОФИЛЬ ПРЕСС",
+            "slug": "profil-press"
+        },
+        "pk": 1
+    }
+]

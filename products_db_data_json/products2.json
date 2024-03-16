@@ -1,0 +1,6190 @@
+[
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 442
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 441
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 62,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 440
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 439
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 60,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 438
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 93,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 437
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 3,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 436
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 26,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 435
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 26,
+            "alloy_type": 58,
+            "standard": 3,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 434
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 26,
+            "alloy_type": 57,
+            "standard": 19,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 433
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 45,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 432
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 19,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 431
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 3,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 430
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 45,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 429
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 71,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 428
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 13,
+            "alloy_type": 55,
+            "standard": 112,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 427
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 13,
+            "alloy_type": 54,
+            "standard": null,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1200",
+            "length": "2000-3000"
+        },
+        "pk": 426
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 13,
+            "alloy_type": 53,
+            "standard": null,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 425
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 424
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 423
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 422
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 421
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 63,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,6-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 420
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 52,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 419
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 51,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 418
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 50,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 417
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 49,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 416
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 52,
+            "standard": 81,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 415
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 52,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 414
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 51,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 413
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 50,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 412
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 49,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 411
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 52,
+            "standard": 81,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 410
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 60,
+            "standard": 24,
+            "material": 1,
+            "thickness": "2,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 409
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 60,
+            "standard": 75,
+            "material": 1,
+            "thickness": "6,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 408
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 61,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 407
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 48,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 406
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 62,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 405
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 62,
+            "standard": 24,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 404
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 47,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 403
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 60,
+            "standard": 24,
+            "material": 1,
+            "thickness": "1,0-5,0",
+            "width": "900-1500",
+            "length": "1000-4000"
+        },
+        "pk": 402
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 60,
+            "standard": 75,
+            "material": 1,
+            "thickness": "1,0-5,0",
+            "width": "900-1500",
+            "length": "1000-4000"
+        },
+        "pk": 401
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 46,
+            "standard": 23,
+            "material": 1,
+            "thickness": "1,0-3,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 400
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 62,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 399
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 62,
+            "standard": 24,
+            "material": 1,
+            "thickness": "0,5-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 398
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 60,
+            "standard": 24,
+            "material": 1,
+            "thickness": "1,0-5,0",
+            "width": "900-1500",
+            "length": "1000-4000"
+        },
+        "pk": 397
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 62,
+            "standard": 24,
+            "material": 1,
+            "thickness": "0,5-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 396
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 46,
+            "standard": 23,
+            "material": 1,
+            "thickness": "1,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 395
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 62,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 394
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 47,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 393
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 24,
+            "alloy_type": 46,
+            "standard": 23,
+            "material": 1,
+            "thickness": "1,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 392
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 391
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 24,
+            "alloy_type": 48,
+            "standard": 81,
+            "material": 1,
+            "thickness": "0,5-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 390
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 48,
+            "standard": 81,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 389
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 24,
+            "alloy_type": 48,
+            "standard": 81,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 388
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 47,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 387
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 29,
+            "alloy_type": 47,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 386
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 60,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 385
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 16,
+            "alloy_type": 45,
+            "standard": 81,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 384
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 45,
+            "standard": 81,
+            "material": 1,
+            "thickness": "1,0-10,0",
+            "width": "900-1500",
+            "length": "1000-4000"
+        },
+        "pk": 383
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 29,
+            "alloy_type": 44,
+            "standard": 37,
+            "material": 1,
+            "thickness": "6,0-11,5",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 382
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 29,
+            "alloy_type": 43,
+            "standard": 60,
+            "material": 1,
+            "thickness": "6,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 381
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 44,
+            "standard": 37,
+            "material": 1,
+            "thickness": "1,5-5,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 380
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 42,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 379
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 41,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-2,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 378
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 40,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,0-2,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 377
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 60,
+            "material": 1,
+            "thickness": "1,0-2,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 376
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 39,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 375
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 39,
+            "standard": 25,
+            "material": 1,
+            "thickness": "1,0-6,0",
+            "width": "900-1200",
+            "length": "2000-4000"
+        },
+        "pk": 374
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 39,
+            "standard": 105,
+            "material": 1,
+            "thickness": "0,8-None",
+            "width": "1200-None",
+            "length": "2020-None"
+        },
+        "pk": 373
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 47,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 372
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 39,
+            "standard": 63,
+            "material": 1,
+            "thickness": "0,8-4,0",
+            "width": "1100-1200",
+            "length": "3000-4000"
+        },
+        "pk": 371
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 38,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-5,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 370
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 42,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 369
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 39,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 368
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 42,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 367
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 41,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,5-2,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 366
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 39,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-4,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 365
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 29,
+            "alloy_type": 39,
+            "standard": 60,
+            "material": 1,
+            "thickness": "6,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 364
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 40,
+            "standard": 60,
+            "material": 1,
+            "thickness": "2,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 363
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 29,
+            "alloy_type": 40,
+            "standard": 60,
+            "material": 1,
+            "thickness": "6,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 362
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 41,
+            "standard": 60,
+            "material": 1,
+            "thickness": "2,5-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 361
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 41,
+            "standard": 60,
+            "material": 1,
+            "thickness": "2,5-5,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 360
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 60,
+            "material": 1,
+            "thickness": "2,5-5,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 359
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 37,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 358
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 36,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 357
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 35,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 356
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 37,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 355
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 34,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 354
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 33,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 353
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 32,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 352
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 3,
+            "alloy_type": 31,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-10,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 351
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 35,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 350
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 35,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 349
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 31,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 348
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 31,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 347
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 346
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 72,
+            "material": 1,
+            "thickness": "0,6-1,0",
+            "width": "1000-1200",
+            "length": "2000-4000"
+        },
+        "pk": 345
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 3,
+            "material": 1,
+            "thickness": "1,1-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 344
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 2,
+            "alloy_type": 29,
+            "standard": 99,
+            "material": 1,
+            "thickness": "1,0-5,0",
+            "width": "900-1500",
+            "length": "1000-4000"
+        },
+        "pk": 343
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 342
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 12,
+            "alloy_type": 28,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 341
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 30,
+            "alloy_type": 28,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 340
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 12,
+            "alloy_type": 57,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 339
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 93,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 338
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 337
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 26,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 336
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 26,
+            "alloy_type": 58,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 335
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 26,
+            "alloy_type": 57,
+            "standard": 19,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 334
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 333
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 19,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 332
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 331
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 330
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 71,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 329
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 56,
+            "standard": 50,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 328
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 27,
+            "standard": 72,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 327
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 4,
+            "alloy_type": 27,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 326
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 33,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 325
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 37,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 324
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 14,
+            "alloy_type": 26,
+            "standard": 3,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 323
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 11,
+            "alloy_type": 25,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 322
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 34,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 321
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 28,
+            "alloy_type": 36,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 320
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 8,
+            "alloy_type": 36,
+            "standard": 60,
+            "material": 1,
+            "thickness": "0,3-7,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 319
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 30,
+            "alloy_type": 25,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 318
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 5,
+            "supply_condition": 12,
+            "alloy_type": 25,
+            "standard": 45,
+            "material": 1,
+            "thickness": "4,0-10,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 317
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 27,
+            "alloy_type": 42,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 316
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 27,
+            "alloy_type": 41,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 315
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 27,
+            "alloy_type": 47,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 314
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 15,
+            "alloy_type": 42,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 313
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 15,
+            "alloy_type": 42,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 312
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 15,
+            "alloy_type": 39,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 311
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 15,
+            "alloy_type": 62,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 310
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 15,
+            "alloy_type": 62,
+            "standard": 24,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 309
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 79,
+            "material": 1,
+            "thickness": "3,0-12,0",
+            "width": "1000-1500",
+            "length": "2000-4000"
+        },
+        "pk": 308
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 20,
+            "alloy_type": 47,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 307
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 4,
+            "supply_condition": 20,
+            "alloy_type": 63,
+            "standard": 87,
+            "material": 1,
+            "thickness": "1,5-4,0",
+            "width": "900-1500",
+            "length": "2000-4000"
+        },
+        "pk": 306
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 44,
+            "standard": 113,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 305
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 24,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 304
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 23,
+            "standard": 113,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 303
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 35,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 302
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 33,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 301
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 31,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 300
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 22,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 299
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 42,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 298
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 41,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 297
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 40,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 296
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 295
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 47,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 294
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 1,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 293
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 39,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 292
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 61,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 291
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 62,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 290
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 47,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 289
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 288
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 113,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 287
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 51,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 286
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": null,
+            "alloy_type": 49,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 285
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 72,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 284
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 57,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 283
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 26,
+            "standard": 107,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 282
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 30,
+            "alloy_type": 26,
+            "standard": 99,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 281
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 11,
+            "alloy_type": 25,
+            "standard": 45,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 280
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 93,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 279
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 99,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 278
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 21,
+            "standard": 3,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 277
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 59,
+            "standard": 42,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 276
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 45,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 275
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 107,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 274
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 28,
+            "standard": 3,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 273
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 12,
+            "alloy_type": 20,
+            "standard": 19,
+            "material": 1,
+            "thickness": "11,0-200,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 272
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 60,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 271
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 22,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 270
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 46,
+            "standard": 66,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 269
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 61,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 268
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 267
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 266
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 52,
+            "standard": 27,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 265
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 16,
+            "alloy_type": 50,
+            "standard": 27,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 264
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 24,
+            "alloy_type": 23,
+            "standard": 5,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 263
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 24,
+            "alloy_type": 46,
+            "standard": 66,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 262
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 30,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 261
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 24,
+            "alloy_type": 48,
+            "standard": 27,
+            "material": 1,
+            "thickness": "11,0-80,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 260
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 43,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 259
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 76,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 258
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 19,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 257
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 7,
+            "alloy_type": 19,
+            "standard": 45,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 256
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 26,
+            "alloy_type": 58,
+            "standard": 93,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 255
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 26,
+            "alloy_type": 58,
+            "standard": 36,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 254
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 28,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 253
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 3,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 252
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 19,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 251
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 25,
+            "alloy_type": 27,
+            "standard": 19,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 250
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 18,
+            "standard": 59,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 249
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 18,
+            "standard": 3,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 248
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 17,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 247
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 16,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 246
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 83,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 245
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 98,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 244
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 36,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 243
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 27,
+            "standard": 54,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 242
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 27,
+            "standard": 72,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 241
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 3,
+            "supply_condition": 4,
+            "alloy_type": 27,
+            "standard": 48,
+            "material": 1,
+            "thickness": "11,0-150,0",
+            "width": "1000-2000",
+            "length": "2000-6000"
+        },
+        "pk": 240
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 32,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 239
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 16,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 238
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 33,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 237
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 236
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 41,
+            "standard": 80,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 235
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 109,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 234
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 80,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 233
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 45,
+            "standard": 80,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 232
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 231
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 230
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 80,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 229
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 228
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 15,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 227
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 14,
+            "standard": 15,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 226
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 225
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 89,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 224
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 20,
+            "standard": 55,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 223
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 84,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 222
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 5,
+            "alloy_type": 20,
+            "standard": 94,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 221
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 29,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 220
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 32,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 219
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 44,
+            "standard": 44,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 218
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 24,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 217
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 56,
+            "standard": 33,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 216
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 56,
+            "standard": 34,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 215
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 33,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 214
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 33,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 213
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 31,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 212
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 17,
+            "standard": 67,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 211
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 210
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 14,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 209
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 42,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 208
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 41,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 207
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 40,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 206
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 205
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 204
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 39,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 203
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 39,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 202
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 47,
+            "standard": 52,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 201
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 200
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 44,
+            "standard": 44,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 199
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 24,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 198
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 41,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 197
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 40,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 196
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 195
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 194
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 39,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 193
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 3,
+            "alloy_type": 63,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 192
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 103,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 191
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 30,
+            "alloy_type": 28,
+            "standard": 111,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 190
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 30,
+            "alloy_type": 13,
+            "standard": 111,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 189
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 12,
+            "alloy_type": 58,
+            "standard": 14,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 188
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 74,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 187
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 45,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 186
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 24,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 185
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 14,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 184
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 47,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 183
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 182
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 14,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 181
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 14,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 180
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 179
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 13,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 178
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 12,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 177
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 176
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 175
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 6,
+            "alloy_type": 17,
+            "standard": 89,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 174
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 20,
+            "standard": 55,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 173
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 20,
+            "standard": 55,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 172
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 20,
+            "standard": 39,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 171
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 10,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 170
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 12,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 169
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 168
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 64,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 167
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 5,
+            "alloy_type": 57,
+            "standard": 10,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 166
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 1,
+            "supply_condition": 5,
+            "alloy_type": 27,
+            "standard": 74,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 165
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 12,
+            "alloy_type": 57,
+            "standard": 102,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 164
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 82,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 163
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 1,
+            "alloy_type": 11,
+            "standard": 56,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 162
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 1,
+            "alloy_type": 10,
+            "standard": 22,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 161
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 1,
+            "alloy_type": 58,
+            "standard": 22,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 160
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 7,
+            "alloy_type": 11,
+            "standard": 22,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 159
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 7,
+            "alloy_type": 59,
+            "standard": 86,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 158
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 56,
+            "standard": 31,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 157
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 4,
+            "alloy_type": 57,
+            "standard": 91,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 156
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 4,
+            "alloy_type": 56,
+            "standard": 22,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 155
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 23,
+            "alloy_type": 10,
+            "standard": 22,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 154
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 153
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 152
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 151
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 150
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 52,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 149
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 11,
+            "standard": 46,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 148
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 92,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 147
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 57,
+            "standard": 95,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 146
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 27,
+            "standard": 110,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 145
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 144
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 30,
+            "alloy_type": 26,
+            "standard": 62,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 143
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 96,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 142
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 141
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 140
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 139
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 1,
+            "alloy_type": 59,
+            "standard": 9,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 138
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 10,
+            "alloy_type": 59,
+            "standard": 77,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 137
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 11,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 136
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 96,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 135
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 11,
+            "standard": 68,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 134
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 10,
+            "standard": 2,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 133
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 132
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 96,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 131
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 10,
+            "standard": 18,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 130
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 9,
+            "standard": 18,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 129
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 96,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 128
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 27,
+            "standard": 40,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 127
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 27,
+            "standard": 70,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 126
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 27,
+            "standard": 2,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 125
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 10,
+            "standard": 18,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 124
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 9,
+            "standard": 2,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 123
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 56,
+            "standard": 103,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 122
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 56,
+            "standard": 70,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 121
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 8,
+            "standard": 90,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 120
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 44,
+            "standard": 78,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 119
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 44,
+            "standard": 101,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 118
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 24,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 117
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 7,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 116
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 7,
+            "standard": 69,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 115
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 36,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 114
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 36,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 113
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 33,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 112
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 31,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 111
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 17,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 110
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 17,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 109
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 15,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 108
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 6,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 107
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 5,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 106
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 22,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 105
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 22,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 104
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 14,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 103
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 14,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 102
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 4,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 101
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 4,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 100
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 42,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 99
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 41,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 98
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 40,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 97
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 96
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 43,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 95
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 39,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 94
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 38,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 93
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 61,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 92
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 3,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 91
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 47,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 90
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 47,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 89
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 97,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 88
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 87
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 86
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 85
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 84
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 52,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 83
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 51,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 82
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": null,
+            "alloy_type": 49,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 81
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 18,
+            "alloy_type": 18,
+            "standard": 108,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 80
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 18,
+            "alloy_type": 30,
+            "standard": 70,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 79
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 18,
+            "alloy_type": 30,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 78
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 18,
+            "alloy_type": 26,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 77
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 44,
+            "standard": 78,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 76
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 36,
+            "standard": 106,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 75
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 42,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 74
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 41,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 73
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 40,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 72
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 71
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 3,
+            "alloy_type": 43,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 70
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 35,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 69
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 30,
+            "alloy_type": 30,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 68
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 30,
+            "alloy_type": 28,
+            "standard": 111,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 67
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 30,
+            "alloy_type": 13,
+            "standard": 111,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 66
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 11,
+            "alloy_type": 30,
+            "standard": 68,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 65
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 11,
+            "alloy_type": 26,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 64
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 53,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 63
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 103,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 62
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 12,
+            "alloy_type": 30,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 61
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 12,
+            "alloy_type": 26,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 60
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 7,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 59
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 17,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 58
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 47,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 57
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 47,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 56
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 55
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 54
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 53
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 52
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 52,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 51
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 50,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 50
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 8,
+            "standard": 90,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 49
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 7,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 48
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 7,
+            "standard": 69,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 47
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 17,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 46
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 15,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 45
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 5,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 44
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 22,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 43
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 22,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 42
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 14,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 41
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 14,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 40
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 4,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 39
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 4,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 38
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 61,
+            "standard": 4,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 37
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 24,
+            "alloy_type": 49,
+            "standard": 49,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 36
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 11,
+            "standard": 8,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 35
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 10,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 34
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 18,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 33
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 32
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 7,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 31
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 65,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 30
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 88,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 29
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 28
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 2,
+            "standard": 7,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 27
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 68,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 26
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 21,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 25
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 24
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 7,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 23
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 22
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 2,
+            "standard": 68,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 21
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 18,
+            "standard": 103,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 20
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 18,
+            "standard": 100,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 19
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 18,
+            "standard": 104,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 18
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 103,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 17
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 85,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 16
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 57,
+            "standard": 70,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 15
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 1,
+            "standard": 7,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 14
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 18,
+            "standard": 61,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 13
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 57,
+            "standard": 11,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 12
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 56,
+            "standard": 108,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 11
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 9,
+            "alloy_type": 27,
+            "standard": 73,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 10
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 9,
+            "alloy_type": 27,
+            "standard": 38,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 9
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 17,
+            "alloy_type": 27,
+            "standard": 7,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 8
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 21,
+            "alloy_type": 27,
+            "standard": 51,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 7
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 16,
+            "alloy_type": 63,
+            "standard": 41,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 6
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 22,
+            "alloy_type": 58,
+            "standard": 20,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 5
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 6,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 4
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 19,
+            "alloy_type": 58,
+            "standard": 20,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 3
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 25,
+            "alloy_type": 18,
+            "standard": 58,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 2
+    },
+    {
+        "model": "product.Product",
+        "fields": {
+            "product_category": 2,
+            "supply_condition": 5,
+            "alloy_type": 18,
+            "standard": 70,
+            "material": 1,
+            "thickness": "None-None",
+            "width": "None-None",
+            "length": "None-None"
+        },
+        "pk": 1
+    }
+]

@@ -153,6 +153,10 @@ MEDIA_URL = '/media/'
 
 SITE_DOMAIN = 'http://localhost:8000'
 
+
+
+
+
 CKEDITOR_UPLOAD_PATH = "uploads/"
 CKEDITOR_BASEPATH = "/static/ckeditor/ckeditor/"
 CKEDITOR_CONFIGS = {
@@ -170,7 +174,7 @@ CKEDITOR_CONFIGS = {
              'items': ['NumberedList', 'BulletedList']},
             {'name': 'links', 'items': ['Link', 'Unlink']},
             {'name': 'insert',
-             'items': ['Image', 'Youtube', 'Html5video', 'Table', 'HorizontalRule', 'SpecialChar']},
+             'items': ['Image', 'Youtube', 'Table', 'HorizontalRule', 'SpecialChar']},
             '/',
             {'name': 'styles', 'items': ['Format']},
             {'name': 'tools', 'items': ['Maximize', 'ShowBlocks']},
@@ -185,10 +189,42 @@ CKEDITOR_CONFIGS = {
         # 'mathJaxLib': '//cdn.mathjax.org/mathjax/2.2-latest/MathJax.js?config=TeX-AMS_HTML',
         'tabSpaces': 4,
         'extraPlugins': ','.join([
+            # 'widget','widgetselection','clipboard','lineutils',
             'youtube',
-            'html5video',
-            'preview'
+            'preview',
         ]),
-        'extraAllowedContent': ['iframe[*]', 'script ins']
+        'extraAllowedContent': 'iframe[*]'
     }
+}
+
+
+
+LOGGING = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "formatters": {
+        "clientreqformatter": {
+            "format": "{levelname} {asctime} {message}",
+            "style": "{"
+        }
+    },
+    "handlers": {
+        "file": {
+            "level": "INFO",
+            "class": "logging.FileHandler",
+            "filename": os.path.join(BASE_DIR, 'logs.log'),
+            "formatter": "clientreqformatter"
+        }
+    },
+    "loggers": {
+        "clientRequests": {
+            "handlers": ["file"],
+            "level": "INFO",
+        },
+        "django.request": {
+            "handlers": ["file"],
+            "level": "INFO",
+        },
+    }
+    
 }

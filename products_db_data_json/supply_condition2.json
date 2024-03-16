@@ -1,0 +1,212 @@
+[
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н111"
+        },
+        "pk": 30
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "без термообработки"
+        },
+        "pk": 29
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н"
+        },
+        "pk": 28
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "МР"
+        },
+        "pk": 27
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т451"
+        },
+        "pk": 26
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т6"
+        },
+        "pk": 25
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т1"
+        },
+        "pk": 24
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т8"
+        },
+        "pk": 23
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т4"
+        },
+        "pk": 22
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т73511"
+        },
+        "pk": 21
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "ТР"
+        },
+        "pk": 20
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т4511"
+        },
+        "pk": 19
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "F"
+        },
+        "pk": 18
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т7351"
+        },
+        "pk": 17
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т"
+        },
+        "pk": 16
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "НР"
+        },
+        "pk": 15
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н111, О"
+        },
+        "pk": 14
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т, Т1"
+        },
+        "pk": 13
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "О"
+        },
+        "pk": 12
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н112"
+        },
+        "pk": 11
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т3511"
+        },
+        "pk": 10
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т73"
+        },
+        "pk": 9
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н2"
+        },
+        "pk": 8
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т351"
+        },
+        "pk": 7
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т5"
+        },
+        "pk": 6
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т6511"
+        },
+        "pk": 5
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т651"
+        },
+        "pk": 4
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "М"
+        },
+        "pk": 3
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Н18"
+        },
+        "pk": 2
+    },
+    {
+        "model": "product.ProductSupplyCondition",
+        "fields": {
+            "name": "Т3"
+        },
+        "pk": 1
+    }
+]

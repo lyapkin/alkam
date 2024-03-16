@@ -4,9 +4,6 @@ from .models import *
 
 
 class ProductSerializer(serializers.ModelSerializer):
-    thickness = serializers.SerializerMethodField()
-    width = serializers.SerializerMethodField()
-    length = serializers.SerializerMethodField()
     product_category = serializers.StringRelatedField()
     supply_condition = serializers.StringRelatedField()
     alloy_type = serializers.StringRelatedField()
@@ -26,15 +23,6 @@ class ProductSerializer(serializers.ModelSerializer):
             "length",
             "material"
         )
-
-    def get_thickness(self, product):
-        return "{}-{}".format(product.thickness_min, product.thickness_max)
-    
-    def get_width(self, product):
-        return "{}-{}".format(product.width_min, product.width_max)
-    
-    def get_length(self, product):
-        return "{}-{}".format(product.length_min, product.length_max)
     
 
 class ProductCategorySerializer(serializers.ModelSerializer):
