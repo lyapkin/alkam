@@ -199,32 +199,3 @@ CKEDITOR_CONFIGS = {
 
 
 
-LOGGING = {
-    "version": 1,
-    "disable_existing_loggers": False,
-    "formatters": {
-        "clientreqformatter": {
-            "format": "{levelname} {asctime} {message}",
-            "style": "{"
-        }
-    },
-    "handlers": {
-        "file": {
-            "level": "INFO",
-            "class": "logging.FileHandler",
-            "filename": os.path.join(BASE_DIR, 'logs.log'),
-            "formatter": "clientreqformatter"
-        }
-    },
-    "loggers": {
-        "clientRequests": {
-            "handlers": ["file"],
-            "level": "INFO",
-        },
-        "django.request": {
-            "handlers": ["file"],
-            "level": "INFO",
-        },
-    }
-    
-}
