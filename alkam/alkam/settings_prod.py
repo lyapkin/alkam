@@ -5,7 +5,7 @@ ALLOWED_HOSTS = ['*']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'alkamdata',
+        'NAME': 'alkamdb',
         'USER': 'alkam',
         'PASSWORD': 'alkamdbadmin',
         'HOST': 'localhost',
