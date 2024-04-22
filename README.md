@@ -1,3 +1,47 @@
+# Сотрудничество
+description - первый экран
+```
+/api/company/cooperation/1/
+{
+    "id": 1,
+    "metaltraders": "<p>Металотрейдера</p>",
+    "enterprises": "<p>Предприятиям<img alt=\"\" src=\"http://localhost:8000/media/uploads/2024/04/23/2024-04-22-220846.png\" style=\"height:752px; width:1901px\" /></p>",
+    "description": "Сотрудничество привет"
+}
+```
+
+# Спецпредложения
+description - первый экран
+```
+/api/company/specialoffer/
+{
+    "description": {
+        "id": 1,
+        "description": "Всем привет"
+    },
+    "offers": [
+        {
+            "id": 1,
+            "text": "<p>Спецпредложение 1</p>"
+        },
+        {
+            "id": 2,
+            "text": "<p>Спецпредложение 2</p>"
+        }
+    ]
+}
+```
+
+# "О компании"
+```
+/api/company/about/1/
+{
+    "id": 1,
+    "text": "<h2>...</h2>"
+}
+```
+
+
 # Спсок статей
 ```
 /api/articles/
@@ -361,14 +405,7 @@
 ```
 
 
-# Второй блок раздела "О компании"
-```
-/api/company/about/1/
-{
-    "id": 1,
-    "text": "<h2>...</h2>"
-}
-```
+
 
 
 # Проекты

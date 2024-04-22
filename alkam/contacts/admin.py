@@ -3,9 +3,9 @@ from django.contrib import admin
 from .models import *
 
 # Register your models here.
-admin.site.register([
-    Address,
-    TelphoneNumber,
-    Email,
-    Department
-])
+# admin.site.register([
+#     Address,
+#     TelphoneNumber,
+#     Email,
+#     Department
+# ])

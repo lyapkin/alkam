@@ -10,8 +10,11 @@ class TextFieldSerializer(serializers.Field):
         domain = 'http://'+str(get_current_site(self.context['request']))
         if self.context['request'].is_secure():
             domain = 'https://'+str(get_current_site(self.context['request']))
-        text = value.replace("src=\"/media/", f"src=\"{domain}/media/")
-        return text
+        content = value.replace("src=\"/media/", f"src=\"{domain}/media/")
+        content = content.replace("&lt;", "<")
+        content = content.replace("&gt;", ">")
+        content = content.replace("&quot;", "")
+        return content
 
 
 class AboutSerializer(serializers.ModelSerializer):
@@ -19,6 +22,35 @@ class AboutSerializer(serializers.ModelSerializer):
     class Meta:
         model = About
         fields = "__all__"
+
+
+class CooperationSerializer(serializers.ModelSerializer):
+    metaltraders = TextFieldSerializer()
+    enterprises = TextFieldSerializer()
+    class Meta:
+        model = Cooperation
+        fields = "__all__"
+
+
+class SpecialOfferDescriptionSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = SpecialOfferDescription
+        fields = "__all__"
+
+
+class SpecialOffersSerializer(serializers.ModelSerializer):
+    text = TextFieldSerializer()
+    class Meta:
+        model = SpecialOffers
+        exclude = ('title',)
+
+
+class OffersSerializer(serializers.BaseSerializer):
+    def to_representation(self, instance):
+        return {
+            "description": SpecialOfferDescriptionSerializer(instance["description"]).data,
+            "offers": SpecialOffersSerializer(instance["offers"], many=True, context={'request': self.context['request']}).data
+        }
 
 
 class ProjectSerializer(serializers.ModelSerializer):
