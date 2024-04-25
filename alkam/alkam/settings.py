@@ -31,6 +31,12 @@ ALLOWED_HOSTS = []
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'http://89.111.174.44',
+    'https://89.111.174.44',
+    'http://alkam-plus.ru',
+    'https://alkam-plus.ru',
+    'http://www.alkam-plus.ru',
+    'https://www.alkam-plus.ru',
 ]
 
 

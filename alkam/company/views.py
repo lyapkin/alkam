@@ -38,3 +38,13 @@ class ProjectApi(viewsets.ReadOnlyModelViewSet):
 
     def get_serializer_class(self):
         return self.serializer_action_classes[self.action]
+    
+
+class Slider1Api(viewsets.ReadOnlyModelViewSet):
+    queryset = Slider1.objects.order_by('-id')
+    serializer_class = Slider1Serializer
+
+
+class Slider2Api(viewsets.ReadOnlyModelViewSet):
+    queryset = Slider2.objects.order_by('-id')
+    serializer_class = Slider2Serializer

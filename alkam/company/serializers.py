@@ -65,3 +65,15 @@ class ProjectListSerializer(serializers.ModelSerializer):
     class Meta:
         model = Project
         fields = ("id", "preview", "preview_image")
+
+
+class Slider1Serializer(serializers.ModelSerializer):
+    class Meta:
+        model = Slider1
+        fields = '__all__'
+
+
+class Slider2Serializer(serializers.ModelSerializer):
+    class Meta:
+        model = Slider2
+        fields = '__all__'

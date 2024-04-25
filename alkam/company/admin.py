@@ -75,8 +75,12 @@ class ProjectAdmin(admin.ModelAdmin):
     form = ProjectAdminForm
 
 
+
+
+
 admin.site.register(About, AboutAdmin)
 admin.site.register(Cooperation, CooperationAdmin)
 admin.site.register(SpecialOfferDescription, SpecialOfferDescriptionAdmin)
 admin.site.register(SpecialOffers, SpecialOffersAdmin)
 admin.site.register(Project, ProjectAdmin)
+admin.site.register([Slider1, Slider2])

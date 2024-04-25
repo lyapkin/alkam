@@ -68,4 +68,28 @@ class Project(models.Model):
     
     class Meta:
         verbose_name = "проект"
-        verbose_name_plural = "проекты"      
+        verbose_name_plural = "проекты"
+
+
+class Slider1(models.Model):
+    title = models.CharField('заголовок изображения',max_length=64)
+    img = models.ImageField("изображение", upload_to=upload_to)
+
+    def __str__(self):
+        return self.title
+    
+    class Meta:
+        verbose_name = "изображение первого слайдера"
+        verbose_name_plural = "изображения первого слайдера"
+
+
+class Slider2(models.Model):
+    title = models.CharField('заголовок изображения',max_length=64)
+    img = models.ImageField("изображение превого слайдера", upload_to=upload_to)
+
+    def __str__(self):
+        return self.title
+    
+    class Meta:
+        verbose_name = "изображение второго слайдера"
+        verbose_name_plural = "изображения второго слайдера"    
