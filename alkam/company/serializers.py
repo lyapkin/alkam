@@ -72,8 +72,20 @@ class Slider1Serializer(serializers.ModelSerializer):
         model = Slider1
         fields = '__all__'
 
+    def to_representation(self, instance):
+        response = super(Slider1Serializer, self).to_representation(instance)
+        if instance.img:
+            response['img'] = instance.img.url
+        return response
+
 
 class Slider2Serializer(serializers.ModelSerializer):
     class Meta:
         model = Slider2
         fields = '__all__'
+
+    def to_representation(self, instance):
+        response = super(Slider2Serializer, self).to_representation(instance)
+        if instance.img:
+            response['img'] = instance.img.url
+        return response
