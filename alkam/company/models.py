@@ -25,7 +25,7 @@ class About(models.Model):
 class Cooperation(models.Model):
     description = models.TextField('"Сотрудничество", первый экран')
     metaltraders = RichTextField("металлотрейдерам")
-    enterprises = RichTextField(verbose_name="предприямтиям")
+    enterprises = RichTextField(verbose_name="предприятиям")
 
     def __str__(self):
         return "'Сотрудничество'"
@@ -42,8 +42,8 @@ class SpecialOfferDescription(models.Model):
         return "'Спецпредложения' описание (первый экран)"
     
     class Meta:
-        verbose_name = "первый экран раздела 'Спецпредложения'"
-        verbose_name_plural = "первый экран раздела 'Спецпредложения'"
+        verbose_name = "cпецпредложения, первый экран"
+        verbose_name_plural = "cпецпредложения, первый экран"
 
 
 class SpecialOffers(models.Model):

@@ -33,16 +33,16 @@ class CooperationAdminForm(forms.ModelForm):
 class CooperationAdmin(admin.ModelAdmin):
     form = CooperationAdminForm
 
-    # def has_add_permission(self, request, obj=None):
-    #     return False
+    def has_add_permission(self, request, obj=None):
+        return False
     
     def has_delete_permission(self, request, obj=None):
         return False
 
 
 class SpecialOfferDescriptionAdmin(admin.ModelAdmin):
-    # def has_add_permission(self, request, obj=None):
-    #     return False
+    def has_add_permission(self, request, obj=None):
+        return False
     
     def has_delete_permission(self, request, obj=None):
         return False
